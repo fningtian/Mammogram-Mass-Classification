@@ -26,11 +26,11 @@ Although "shape" and "margin" are nominal data types, which sklearn typically do
 
 Supervised Learning
 - Logistic Regression - penalty, C
-- Decision tree 
+- Decision tree - max_depth, criterion, max_leaf_nodes
 - Random forest - n_estimators, max_features, bootstrap
 - KNN - knn__n_neighbors
-- Naive Bayes
 - SVM - kernel, C
+- Naive Bayes
 
 Deep Learning
 - Neural network using Keras
